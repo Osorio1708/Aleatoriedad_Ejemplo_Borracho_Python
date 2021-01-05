@@ -1,2 +1,3 @@
-# Aleatoriedad_Ejemplo_Borracho_Python
-Este es un ejemplo de aleatoriedad utilizando como referencia la caminata impredecible de un borracho.
+# Aleatoriedad Ejemplo del Borracho Python
+	
+	Tomando como referencia la caminata impredecible de un borracho, se modela este algoritmo de aleatoriedad en python la cual utiliza la librería Bokeh para graficar dicha trayectoria.
